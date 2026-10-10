@@ -62,6 +62,9 @@ main() {
 }
 ```
 # Пример работы программы:
+Ввести 4
+
+Выход: Весна
 
 <img width="399" height="105" alt="image" src="https://github.com/user-attachments/assets/4d0d688c-2055-4ae4-8351-c58db71cb047" />
 
